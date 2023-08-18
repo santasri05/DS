@@ -1,5 +1,5 @@
 ## Data Structure using C 
-linked list
-stack
-queue
-other
+1.linked list
+2.stack
+3.queue
+4.other
